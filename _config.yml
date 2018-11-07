@@ -86,10 +86,6 @@ exclude:
   - node_modules
   - package.json
   - spec
-<<<<<<< HEAD
-  - tmp
-=======
   - tmp
 
 theme: jekyll-theme-cayman
->>>>>>> d228ad5b7c68c2a2ea24c52f92898b03ab7b6ef1
